@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "sanfintech"
+  "defaultProject": "sanfintech",
+  "cli": {
+    "analytics": "b3407f49-6191-4d02-af5d-cd18873176b1"
+  }
 }
